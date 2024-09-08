@@ -1,0 +1,6 @@
+{
+    "codingcopilot.enableAutoCompletions": true,
+    "codingcopilot.enableCompletionLanguage": {
+        "scminput": true
+    }
+}
