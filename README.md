@@ -1,6 +1,6 @@
 # Introduction
 
-Here records the files and some results of the 2024 ONLINE EXPERIENCE COMPETITION, which is mainly organized by Credamo and co-organized by some universities in China. 
+Here buries the files and some results of the 2024 ONLINE EXPERIENCE COMPETITION, which is mainly organized by Credamo and co-organized by some universities in China. 
 
 # Acknowledgement
 
