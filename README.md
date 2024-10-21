@@ -14,7 +14,7 @@ Mao Peixuan
 
 Pan Yuhang
 
-Qi Yijia
+Qinn Yijia
 
 Xu Jiasheng
 
